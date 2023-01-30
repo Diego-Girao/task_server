@@ -5,7 +5,7 @@ This project is a server backend of Task Manager Project
 ## Start
 
 ### 'yarn install'
-Install all libreries dependencies.
+Install all libraries dependencies.
 
 ## Comands
 
